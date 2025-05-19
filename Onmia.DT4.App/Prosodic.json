@@ -1,0 +1,274 @@
+{
+  "sessionId": "46/1767",
+  "globalScore": 68.76053827927306,
+  "globalScoreGrade": "Excellent",
+  "teamScore": 64.77052956630807,
+  "teamScoreGrade": "Good",
+  "teamAccommodation": 0.3752107655854614,
+  "accommodationScore": 15.920169529536587,
+  "accommodationScoreGrade": "Moderate>",
+  "pilotABalance": 42.03991523523171,
+  "pilotBBalance": 57.9600847647683,
+  "globalSpeaking": 73.7223430408472,
+  "globalListening": 26.277656959152793,
+  "globalTalkingA": 42.78555219364599,
+  "globalTalkingB": 43.02193645990923,
+  "overlap": 12.085145612708018,
+  "overlapGrade": "Medium",
+  "errorMessage": null,
+  "errorCode": null,
+  "timedData": [
+    {
+      "time": 15.0,
+      "communicationPerformance": -0.6473388749701496,
+      "pilotASpeaking": 60.0,
+      "pilotAListening": 40.0,
+      "pilotBSpeaking": 37.5,
+      "pilotBListening": 62.5,
+      "overlapPercentage": 15.833333333333334
+    },
+    {
+      "time": 45.0,
+      "communicationPerformance": -0.028988551782623245,
+      "pilotASpeaking": 24.166666666666668,
+      "pilotAListening": 75.83333333333333,
+      "pilotBSpeaking": 58.333333333333336,
+      "pilotBListening": 41.666666666666664,
+      "overlapPercentage": 8.333333333333334
+    },
+    {
+      "time": 75.0,
+      "communicationPerformance": 0.9856107606091623,
+      "pilotASpeaking": 34.166666666666664,
+      "pilotAListening": 65.83333333333334,
+      "pilotBSpeaking": 60.0,
+      "pilotBListening": 40.0,
+      "overlapPercentage": 11.666666666666666
+    },
+    {
+      "time": 105.0,
+      "communicationPerformance": 0.08571428571428616,
+      "pilotASpeaking": 31.666666666666668,
+      "pilotAListening": 68.33333333333333,
+      "pilotBSpeaking": 36.666666666666664,
+      "pilotBListening": 63.333333333333336,
+      "overlapPercentage": 5.833333333333333
+    },
+    {
+      "time": 135.0,
+      "communicationPerformance": 0.6571428571428571,
+      "pilotASpeaking": 49.166666666666664,
+      "pilotAListening": 50.833333333333336,
+      "pilotBSpeaking": 45.0,
+      "pilotBListening": 55.0,
+      "overlapPercentage": 15.0
+    },
+    {
+      "time": 165.0,
+      "communicationPerformance": 0.8406680016960503,
+      "pilotASpeaking": 34.166666666666664,
+      "pilotAListening": 65.83333333333334,
+      "pilotBSpeaking": 39.166666666666664,
+      "pilotBListening": 60.833333333333336,
+      "overlapPercentage": 7.5
+    },
+    {
+      "time": 195.0,
+      "communicationPerformance": 0.3731758962665825,
+      "pilotASpeaking": 30.0,
+      "pilotAListening": 70.0,
+      "pilotBSpeaking": 54.166666666666664,
+      "pilotBListening": 45.833333333333336,
+      "overlapPercentage": 9.166666666666666
+    },
+    {
+      "time": 225.0,
+      "communicationPerformance": -0.23190841426097938,
+      "pilotASpeaking": 38.333333333333336,
+      "pilotAListening": 61.666666666666664,
+      "pilotBSpeaking": 65.83333333333333,
+      "pilotBListening": 34.16666666666667,
+      "overlapPercentage": 20.0
+    },
+    {
+      "time": 255.0,
+      "communicationPerformance": 0.028571428571426746,
+      "pilotASpeaking": 42.5,
+      "pilotAListening": 57.5,
+      "pilotBSpeaking": 56.666666666666664,
+      "pilotBListening": 43.333333333333336,
+      "overlapPercentage": 16.666666666666668
+    },
+    {
+      "time": 285.0,
+      "communicationPerformance": -0.19999999999999987,
+      "pilotASpeaking": 31.666666666666668,
+      "pilotAListening": 68.33333333333333,
+      "pilotBSpeaking": 26.666666666666668,
+      "pilotBListening": 73.33333333333333,
+      "overlapPercentage": 9.166666666666666
+    },
+    {
+      "time": 315.0,
+      "communicationPerformance": 0.5294117647058825,
+      "pilotASpeaking": 51.666666666666664,
+      "pilotAListening": 48.333333333333336,
+      "pilotBSpeaking": 40.0,
+      "pilotBListening": 60.0,
+      "overlapPercentage": 16.666666666666668
+    },
+    {
+      "time": 345.0,
+      "communicationPerformance": -0.28138742976632514,
+      "pilotASpeaking": 74.16666666666667,
+      "pilotAListening": 25.83333333333333,
+      "pilotBSpeaking": 23.333333333333332,
+      "pilotBListening": 76.66666666666667,
+      "overlapPercentage": 9.166666666666666
+    },
+    {
+      "time": 375.0,
+      "communicationPerformance": 0.6000000000000001,
+      "pilotASpeaking": 24.166666666666668,
+      "pilotAListening": 75.83333333333333,
+      "pilotBSpeaking": 65.0,
+      "pilotBListening": 35.0,
+      "overlapPercentage": 12.5
+    },
+    {
+      "time": 405.0,
+      "communicationPerformance": 0.40583972495671394,
+      "pilotASpeaking": 31.666666666666668,
+      "pilotAListening": 68.33333333333333,
+      "pilotBSpeaking": 48.333333333333336,
+      "pilotBListening": 51.666666666666664,
+      "overlapPercentage": 15.0
+    },
+    {
+      "time": 435.0,
+      "communicationPerformance": 0.8986451052612949,
+      "pilotASpeaking": 24.166666666666668,
+      "pilotAListening": 75.83333333333333,
+      "pilotBSpeaking": 49.166666666666664,
+      "pilotBListening": 50.833333333333336,
+      "overlapPercentage": 1.6666666666666667
+    },
+    {
+      "time": 465.0,
+      "communicationPerformance": 0.40583972495671394,
+      "pilotASpeaking": 53.333333333333336,
+      "pilotAListening": 46.666666666666664,
+      "pilotBSpeaking": 25.0,
+      "pilotBListening": 75.0,
+      "overlapPercentage": 4.166666666666667
+    },
+    {
+      "time": 495.0,
+      "communicationPerformance": 0.03035883703594576,
+      "pilotASpeaking": 60.0,
+      "pilotAListening": 40.0,
+      "pilotBSpeaking": 30.0,
+      "pilotBListening": 70.0,
+      "overlapPercentage": 16.666666666666668
+    },
+    {
+      "time": 525.0,
+      "communicationPerformance": 0.5441176470588236,
+      "pilotASpeaking": 59.166666666666664,
+      "pilotAListening": 40.833333333333336,
+      "pilotBSpeaking": 34.166666666666664,
+      "pilotBListening": 65.83333333333334,
+      "overlapPercentage": 15.0
+    },
+    {
+      "time": 555.0,
+      "communicationPerformance": -0.6377481392176932,
+      "pilotASpeaking": 38.333333333333336,
+      "pilotAListening": 61.666666666666664,
+      "pilotBSpeaking": 36.666666666666664,
+      "pilotBListening": 63.333333333333336,
+      "overlapPercentage": 11.666666666666666
+    },
+    {
+      "time": 585.0,
+      "communicationPerformance": 0.9276336570439174,
+      "pilotASpeaking": 39.166666666666664,
+      "pilotAListening": 60.833333333333336,
+      "pilotBSpeaking": 50.0,
+      "pilotBListening": 50.0,
+      "overlapPercentage": 15.833333333333334
+    },
+    {
+      "time": 615.0,
+      "communicationPerformance": -0.2029198624783567,
+      "pilotASpeaking": 31.666666666666668,
+      "pilotAListening": 68.33333333333333,
+      "pilotBSpeaking": 35.0,
+      "pilotBListening": 65.0,
+      "overlapPercentage": 8.333333333333334
+    },
+    {
+      "time": 645.0,
+      "communicationPerformance": -0.75,
+      "pilotASpeaking": 22.5,
+      "pilotAListening": 77.5,
+      "pilotBSpeaking": 41.666666666666664,
+      "pilotBListening": 58.333333333333336,
+      "overlapPercentage": 9.166666666666666
+    },
+    {
+      "time": 675.0,
+      "communicationPerformance": -0.49280538030458115,
+      "pilotASpeaking": 49.166666666666664,
+      "pilotAListening": 50.833333333333336,
+      "pilotBSpeaking": 46.666666666666664,
+      "pilotBListening": 53.333333333333336,
+      "overlapPercentage": 14.166666666666666
+    },
+    {
+      "time": 705.0,
+      "communicationPerformance": -0.2029198624783567,
+      "pilotASpeaking": 54.166666666666664,
+      "pilotAListening": 45.833333333333336,
+      "pilotBSpeaking": 46.666666666666664,
+      "pilotBListening": 53.333333333333336,
+      "overlapPercentage": 25.0
+    },
+    {
+      "time": 735.0,
+      "communicationPerformance": -0.6377481392176932,
+      "pilotASpeaking": 45.833333333333336,
+      "pilotAListening": 54.166666666666664,
+      "pilotBSpeaking": 48.333333333333336,
+      "pilotBListening": 51.666666666666664,
+      "overlapPercentage": 11.666666666666666
+    },
+    {
+      "time": 765.0,
+      "communicationPerformance": 0.6377481392176932,
+      "pilotASpeaking": 69.16666666666667,
+      "pilotAListening": 30.83333333333333,
+      "pilotBSpeaking": 10.833333333333334,
+      "pilotBListening": 89.16666666666667,
+      "overlapPercentage": 6.666666666666667
+    },
+    {
+      "time": 795.0,
+      "communicationPerformance": 0.6377481392176932,
+      "pilotASpeaking": 68.33333333333333,
+      "pilotAListening": 31.66666666666667,
+      "pilotBSpeaking": 24.166666666666668,
+      "pilotBListening": 75.83333333333333,
+      "overlapPercentage": 15.833333333333334
+    },
+    {
+      "time": 825.0,
+      "communicationPerformance": 0.0,
+      "pilotASpeaking": 26.666666666666668,
+      "pilotAListening": 73.33333333333333,
+      "pilotBSpeaking": 67.5,
+      "pilotBListening": 32.5,
+      "overlapPercentage": 8.333333333333334
+    }
+  ]
+}
