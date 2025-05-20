@@ -1,8 +1,23 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
+﻿﻿@{
+ViewData["Title"] = "Home Page";
 }
+@model ProsodicModel
+
+<h2>Timed Data</h2>
+<ul>
+    @if (Model != null)
+    {
+        @foreach (var item in Model.TimedData)
+        {
+            <li>@item.CommunicationPerformance</li>
+        }
+
+    }
+</ul>
+<h2>API Data</h2>
 
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <p>Omnia Dev Task 4 with ASP.NET Core</p>
+    <p>Under Construction</p>
 </div>
